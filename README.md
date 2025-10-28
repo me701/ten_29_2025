@@ -1,6 +1,6 @@
 # ME 701 - Oral Exam - 10/28/2025
 
-Name:
+Name: YOUR NAME
 
 Tasks (to be done in order):
 
